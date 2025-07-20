@@ -22,8 +22,8 @@ Install my-project with npm
 
 1. Clone the repository
 ```bash
-git clone <repo-url>
-cd "React Movie tutorial/frontend"
+git clone https://github.com/noughtsad/OMDB-Movie-Search.git
+cd .\OMDB-Movie-Search\
 ```
 2. Install dependencies
 ```bash
@@ -43,3 +43,6 @@ npm run dev
 
 - Home Page: Search for movies and view results as cards. Click the heart icon to add/remove a movie from favorites.
 - Favorites Page: View your list of favorite movies.
+  
+<img width="1919" height="955" alt="Screenshot 2025-07-20 123523" src="https://github.com/user-attachments/assets/1cf6af76-9d37-440a-aee6-42c14a27c07c" />
+<img width="1919" height="953" alt="image" src="https://github.com/user-attachments/assets/9f43f017-35e1-43dd-b830-5d9c95e0c32f" />
